@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**alihamzaazhar/alihamzaazhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to ge# 💫 About Me:
+# 💫 About Me:
 Developing immersive mobile apps using React Native, with a focus on integrating 3D, AR, and VR experiences. My recent projects involve connecting Unity with React Native and creating native modules for enhanced performance on Android and iOS.<br>React Native projects, especially those involving AR/VR, mobile UI/UX improvements, and cross-platform mobile development. I'm also interested in collaborating on open-source tools that optimize React Native performance.<br>Exploring advanced performance optimization techniques in React Native, particularly around native module development for Android and iOS.<br>Cutting-edge AR/VR development techniques and how to seamlessly integrate them with mobile applications. I'm also diving deeper into performance improvements for mobile apps, including faster media rendering and responsive UI components.<br>React Native, integrating Unity with mobile apps, creating native modules, mobile performance optimization, and immersive AR/VR experiences.
 
 
